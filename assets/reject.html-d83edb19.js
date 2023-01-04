@@ -1,0 +1,1 @@
+import{_ as t,W as a,X as c,Z as e,a1 as r}from"./framework-24bb1245.js";const s={},o=e("h1",{id:"被拒绝的勇气",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#被拒绝的勇气","aria-hidden":"true"},"#"),r(" 被拒绝的勇气")],-1),n=[o];function _(d,i){return a(),c("div",null,n)}const l=t(s,[["render",_],["__file","reject.html.vue"]]);export{l as default};

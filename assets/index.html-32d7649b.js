@@ -1,0 +1,1 @@
+import{_ as o,W as n,X as a,Y as l,Z as e,$ as r,a0 as s,D as c,a1 as _}from"./framework-24bb1245.js";const i={};function m(d,u){const t=c("RouterLink");return n(),a("div",null,[l(" more "),e("ul",null,[e("li",null,[r(t,{to:"/english/20221225.html"},{default:s(()=>[_("2022-12-25")]),_:1})])])])}const x=o(i,[["render",m],["__file","index.html.vue"]]);export{x as default};

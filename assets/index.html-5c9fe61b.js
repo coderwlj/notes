@@ -1,0 +1,1 @@
+import{_ as a,W as t,X as r,Y as c,Z as e,a1 as n}from"./framework-24bb1245.js";const o={},s=e("h2",{id:"软件教程",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#软件教程","aria-hidden":"true"},"#"),n(" 软件教程")],-1);function d(_,i){return t(),r("div",null,[c(" more "),s])}const h=a(o,[["render",d],["__file","index.html.vue"]]);export{h as default};

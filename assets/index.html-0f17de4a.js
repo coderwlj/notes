@@ -1,0 +1,1 @@
+import{_ as o,W as n,X as a,Z as e,$ as l,a0 as r,D as c,a1 as s}from"./framework-24bb1245.js";const _={};function d(i,u){const t=c("RouterLink");return n(),a("div",null,[e("ul",null,[e("li",null,[l(t,{to:"/read/mind/book01.html"},{default:r(()=>[s("学会提问")]),_:1})])])])}const f=o(_,[["render",d],["__file","index.html.vue"]]);export{f as default};
